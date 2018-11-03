@@ -18,6 +18,4 @@ It can contain a list:
 ---
 # Пример 2
 
-Kate could have[has][had] a nice smile.
-
-> Kate used[had][need] to smoke but now she runs[run][ran] a lot instead.
+Kate used[had][need] to smoke but now she runs[run][ran] a lot instead.
